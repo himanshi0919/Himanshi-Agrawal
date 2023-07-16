@@ -22,10 +22,10 @@ return (
       </button>
       </div>
       <div>
-      <img className="absolute top-[70px] left-[520px] w-[120px] h-[120px]"src="/assets/Ellipse 85.png" alt=""/>
-      <img className="absolute top-[400px] left-[1000px] w-[160px] h-[1600x]"src="/assets/Rectangle 23.png" alt=""/>
+      <img className="absolute top-[70px] left-[520px] w-[120px] h-[120px]"src="../assets/Ellipse 85.png" alt=""/>
+      <img className="absolute top-[400px] left-[1000px] w-[160px] h-[1600x]"src="../assets/Rectangle 23.png" alt=""/>
       <img className="absolute top-[70px] left-[590px] rounded-t-none rounded-br-none rounded-bl-[180px] w-[654px] h-[412px] object-cover"
-      src="assets/image8.png" alt=""/>
+      src="../assets/image8.png" alt=""/>
       </div>
       </div>
       </div>
