@@ -10,7 +10,7 @@ const Navbar = () => {
   <span className="ml-2 text-xl  absolute top-[10px] left-[117px]" style={{ fontSize: '35px', color: 'black' }}>Studio</span>
     </a>
     <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
-      <a href="/" className="mr-10 absolute top-[25px] left-[600px]">Home</a>
+      <a href="/" className="mr-10 absolute top-[25px] left-[630px]">Home</a>
       <a className="mr-10 absolute top-[25px] left-[710px]">What We Do</a>
       <a className="mr-10 absolute top-[25px] left-[830px]">Service</a>
       <a className="mr-10 absolute top-[25px] left-[920px]">Project</a>
