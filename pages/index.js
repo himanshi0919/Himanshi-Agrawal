@@ -29,6 +29,7 @@ export default function Home() {
   <Happyclient/>
   <Subscribe/>
   <Footer/>
+    <Navbar/>
   </div>
   );
 }
