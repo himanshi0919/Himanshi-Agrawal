@@ -38,7 +38,7 @@ const Hero = () => {
             />
             <img
               className="absolute top-[70px] left-[590px] rounded-t-none rounded-br-none rounded-bl-[180px] w-[654px] h-[412px] object-cover"
-              src={process.env.PUBLIC_URL + "/assets/image8.png"}
+              src={process.env.PUBLIC_URL + "https://lh3.googleusercontent.com/pw/AIL4fc99dUS7exJwH2geazRLAHnRukyMLzzX2k_Qnjz782YuepaL_9Ep44tLEOzXR3TWQNphk6kfy3gwFeGaosecWWVqIlJxAEnbKjzRZVX30Glw59MgwBBwlFGVgsCsdSzVIuDO4IFnjCf94NMILyiJKeVN69cv-zDoP21V3_A3IGIRbHJPgYVCCe0GVM9LDUpilKVRdxJp-MOD1A1n18wVP-BYT_0yxb5_HFp_WHRghIuzclrxKDQJ3jAnF-gPgVtRuWcCQR5cBA0HbBhAevwbSZkcYLewZ-HZF3yDqVHYzE8zx_bW7umuf0JeCyexJNiC3QJE8F5jqhFzfzc8g_FWrMWvxWO7qsbGS3ozikN2v7UCpzSQ4wpTkJRqPF8SNUaVcIBKhJRYfh9LPWoQB-Ts6pomt_MBJWXHcP_AGoRLW4otprrKxyz8XT6UPBB_FkEQXWLLp9Ra0zvFPjrs1rwPoSLrDJhNNfgSROhmDku8guporFu5Chex8WaW0r0JfXWjPjlsUPi1bkarUTjxIGUaJhE8OR_6zG3oOs9a-BIsRCta4rgD7KMKQEzLbqqEkOH3B1EgioXOw7M0RtcncWn3n3ir_CwpGlNq7hyeWrGcD6OJ4snBMfCIOfXoDB0MaZ7uyvieFlGcAsbYs_1mtORRBMYad8AIYLRSYWKVqglg1XGZMkn93ajDwlzD6RBQmGuZMVnQjtUF3v29tFhArHDv0bmwVct_mYjmFDu-VFwZqQUOHbn-fNz66-YmifYI0hCDLn4CeUsreyG6BC0OGCwSM-4V83RY0EUkOrGWWZFGJS-JrLpG5VI5UVo4WpXLhWhjNpYvR3wB4I1V5h0qH1QnOLXQJ_RrkDgjzheGEgBcqV7-WHJnKOCvAQYzeABw4SUXcZpBPrgdwWxdipbUIXyk=w754-h512-s-no?authuser=0"}
               alt=""
             />
           </div>
