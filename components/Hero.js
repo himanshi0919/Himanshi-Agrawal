@@ -9,7 +9,7 @@ const Hero = () => {
             <p className="text-2xl sm:text-4xl md:text-5xl lg:text-4xl font-medium font-semibold absolute top-[200px] left-[70px]">
               A Digital Product Agency
             </p>
-            <p className="text-sm sm:text-base lg:text-lg text-gray-500 absolute top-[300px] left-[70px]">
+            <p className="text-sm sm:text-base lg:text-lg text-gray-500 absolute top-[280px] left-[70px]">
               Leading digital agency with solid design and development
               <br className="lg:flex hidden" />
               expertise. We build readymade websites, mobile applications,
