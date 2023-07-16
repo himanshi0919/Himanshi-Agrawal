@@ -10,7 +10,7 @@ const Client = () => {
     Our Client
     </p>
     <div className="grid grid-cols-1 sm:grid-cols-2 gap-10 lg:gap-10 py-10">
-    <p className="text-sm sm:text-base lg:text-lg text-gray-500 absolute top-[800px] left-[70px]">
+    <p className="text-sm sm:text-base lg:text-lg text-gray-500 absolute top-[720px] left-[70px]">
     Several selected clients, who already
     <br className="lg:flex hidden" />
     believe in our service.
