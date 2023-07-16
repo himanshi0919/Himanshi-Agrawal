@@ -19,8 +19,8 @@ const Client = () => {
     <div className="flex flex-row gap-10 items-center">
    <img className="absolute top-[720px] left-[500px]"src="./assets/Google Logo.png" alt=""/>
    <img className="absolute top-[720px] left-[690px]" src="./assets/Airbnb Logo.png" alt=""/>
-   <img className="absolute top-[720px] left-[750px]" src="./assets/Uber Eats Logo.png" alt=""/>
-   <img className="absolute top-[720px] left-[850px]" src="./assets/Amazon Logo.png" alt=""/>
+   <img className="absolute top-[720px] left-[810px]" src="./assets/Uber Eats Logo.png" alt=""/>
+   <img className="absolute top-[720px] left-[900px]" src="./assets/Amazon Logo.png" alt=""/>
           
         </div>
         </div> 
