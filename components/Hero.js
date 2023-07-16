@@ -1,9 +1,5 @@
-
-
 export default Hero;
-
 import React from "react";
-
 const Hero = () => {
   return (
     <div className="container mx-auto my-10">
