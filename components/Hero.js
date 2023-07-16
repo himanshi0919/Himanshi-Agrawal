@@ -6,10 +6,10 @@ const Hero = () => {
       <div className="px-6 lg:px-16 py-10 rounded-3xl">
         <div className="flex flex-col lg:flex-row justify-center lg:justify-between items-center gap-5">
           <div className="flex flex-col gap-5 lg:gap-10">
-            <p className="text-2xl sm:text-4xl md:text-5xl lg:text-4xl font-medium font-semibold absolute top-[500px] left-[80px]">
+            <p className="text-2xl sm:text-4xl md:text-5xl lg:text-4xl font-medium font-semibold absolute top-[200px] left-[70px]">
               A Digital Product Agency
             </p>
-            <p className="text-sm sm:text-base lg:text-lg text-gray-500 absolute top-[550px] left-[80px]">
+            <p className="text-sm sm:text-base lg:text-lg text-gray-500 absolute top-[300px] left-[70px]">
               Leading digital agency with solid design and development
               <br className="lg:flex hidden" />
               expertise. We build readymade websites, mobile applications,
@@ -17,7 +17,7 @@ const Hero = () => {
               and elaborate online business services.
             </p>
             <button
-              className="btn btn-sm lg:btn-lg bg-[#2639ED] text-white rounded-full border-none w-70 h-12 lg:w-40 capitalize absolute top-[600px] left-[80px]"
+              className="btn btn-sm lg:btn-lg bg-[#2639ED] text-white rounded-full border-none w-70 h-12 lg:w-40 capitalize absolute top-[400px] left-[70px]"
               onClick={() => {
                 window.location.href = "/desktop";
               }}
