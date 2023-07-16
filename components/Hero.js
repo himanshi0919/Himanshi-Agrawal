@@ -1,4 +1,4 @@
-export default Hero;
+
 import React from "react";
 const Hero = () => {
   return (
