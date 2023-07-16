@@ -14,8 +14,8 @@ const Navbar = () => {
       <a className="mr-10 absolute top-[25px] left-[710px]">What We Do</a>
       <a className="mr-10 absolute top-[25px] left-[830px]">Service</a>
       <a className="mr-10 absolute top-[25px] left-[920px]">Project</a>
-      <a className="mr-10 absolute top-[25px] left-[1020px]">Blog</a>
-      <a className="mr-10 absolute top-[25px] left-[1110px]">Contact</a>
+      <a className="mr-10 absolute top-[25px] left-[1010px]">Blog</a>
+      <a className="mr-10 absolute top-[25px] left-[1100px]">Contact</a>
     </nav>
    
   </div>
