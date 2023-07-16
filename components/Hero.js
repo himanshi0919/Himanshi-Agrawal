@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="px-6 lg:px-16 py-10 rounded-3xl">
         <div className="flex flex-col lg:flex-row justify-center lg:justify-between items-center gap-5">
           <div className="flex flex-col gap-5 lg:gap-10">
-            <p className="text-2xl sm:text-4xl md:text-5xl lg:text-4xl font-medium font-semibold">
+            <p className="text-2xl sm:text-4xl md:text-5xl lg:text-4xl font-medium font-semibold "absolute top-[300px] left-[120px]">
               A Digital Product Agency
             </p>
             <p className="text-sm sm:text-base lg:text-lg text-gray-500">
