@@ -12,10 +12,10 @@ const Navbar = () => {
     <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
       <a href="/" className="mr-10 absolute top-[25px] left-[600px]">Home</a>
       <a className="mr-10 absolute top-[25px] left-[710px]">What We Do</a>
-      <a className="mr-10 absolute top-[25px] left-[880px]">Service</a>
-      <a className="mr-10 absolute top-[25px] left-[960px]">Project</a>
-      <a className="mr-10 absolute top-[25px] left-[1060px]">Blog</a>
-      <a className="mr-10 absolute top-[25px] left-[1150px]">Contact</a>
+      <a className="mr-10 absolute top-[25px] left-[830px]">Service</a>
+      <a className="mr-10 absolute top-[25px] left-[920px]">Project</a>
+      <a className="mr-10 absolute top-[25px] left-[1020px]">Blog</a>
+      <a className="mr-10 absolute top-[25px] left-[1110px]">Contact</a>
     </nav>
    
   </div>
